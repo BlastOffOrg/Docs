@@ -1,0 +1,9 @@
+site_name: BlastOff documentation
+nave: 
+- Home: index.md
+- Introduction: 
+  - overview: introduction/index.md
+  - "Future Yield Locked Staking Pool": introduction/locked-staking.md
+  - "a": introdution/a.md
+
+theme: readthedocs
