@@ -15,3 +15,5 @@ This is BlastOff documentations repository, generated using [mkdocs.org](https:/
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+## [#Documentation](./docs/index.md)
