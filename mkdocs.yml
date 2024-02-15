@@ -1,9 +1,12 @@
 site_name: BlastOff documentation
-nave: 
+nav: 
 - Home: index.md
-- Introduction: 
-  - overview: introduction/index.md
-  - "Future Yield Locked Staking Pool": introduction/locked-staking.md
-  - "a": introdution/a.md
+- Introduction: introduction.md
+- Smart Contracts: 
+  - Overview: contracts/overview.md
+  - Governance: contracts/governance.md
+  - Future Yield Minting Vault: contracts/mint-vault.md
+  - Staking Vault: contracts/staking-vault.md
+  - IDO Pool For Future Yield: contracts/ido.md
 
 theme: readthedocs
