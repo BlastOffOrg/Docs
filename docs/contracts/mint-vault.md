@@ -13,6 +13,9 @@ Yield genereated by each position will be calculated as follow:
 
 $$\frac{postion.amount \times totalYieldGenerated}{totalStakingAmount}$$
 
+More fyETH/fyUSD can be immediately from existing **position** by extending its locked duration. 
+Maximum duration for a **position** is set to 10 years.
+
 ## Contracts 
 
 smart contract(s) of future yield minting vault
@@ -32,5 +35,4 @@ See on [Github](https://github.com/BlastOffOrg/future-yield-contracts/blob/main/
 ## Future developments
 
 Upcoming features including:
-- extending **position** lock time in order to mint more future yield token.
 - repay a fraction of **position**.
