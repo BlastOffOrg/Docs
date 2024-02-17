@@ -8,6 +8,7 @@ nav:
   - Future Yield Minting Vault: contracts/mint-vault.md
   - Staking Vault: contracts/staking-vault.md
   - IDO Pool For Future Yield: contracts/ido.md
+  - Deployed Contracts: contracts/deployed.md
 theme: readthedocs
 use_directory_urls: false
 plugins:
