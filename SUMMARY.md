@@ -17,15 +17,17 @@
 * [Utility and Treasury](usdoff/utility-and-treasury.md)
 * [Tokenomics](usdoff/tokenomics.md)
 * [Roadmap](usdoff/roadmap.md)
-* [Verified Contracts](usdoff/verified-contracts.md)
-
-***
-
-* [Partnerships](partnerships/README.md)
-  * [Technical Integrations](partnerships/technical-integrations.md)
-  * [Incubation and YIDO Partners](partnerships/incubation-and-yido-partners.md)
 
 ## Applications
 
 * [Apply for a YIDO](applications/apply-for-a-yido.md)
 * [Apply for a Partnership](applications/apply-for-a-partnership.md)
+
+## RESOURCES
+
+* [Verified Contracts](resources/verified-contracts.md)
+* [Published Audits](resources/published-audits.md)
+* [Partnerships](resources/partnerships/README.md)
+  * [Technical Integrations](resources/partnerships/technical-integrations.md)
+  * [Incubation and YIDO Partners](resources/partnerships/incubation-and-yido-partners.md)
+* [Github](https://github.com/BlastOffOrg/)

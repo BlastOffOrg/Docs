@@ -7,7 +7,7 @@ description: >-
 
 # Incubation and YIDO Partners
 
-<figure><img src="../.gitbook/assets/logo-kaizen-horizontal-white.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/logo-kaizen-horizontal-white.png" alt=""><figcaption></figcaption></figure>
 
 Kaizen Finance is the first automated cross-chain token launch platform for everything from token creation and distribution to listing security and management. Kaizen Finance are working together with us to provide market-leading:
 
