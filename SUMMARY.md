@@ -17,6 +17,7 @@
 * [Utility and Treasury](usdoff/utility-and-treasury.md)
 * [Tokenomics](usdoff/tokenomics.md)
 * [Roadmap](usdoff/roadmap.md)
+* [Verified Contracts](usdoff/verified-contracts.md)
 
 ***
 

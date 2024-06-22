@@ -30,28 +30,5 @@ Users with a high [Blast Force](yido-native-yield-ido/blast-force.md) score will
 * **Enhanced Yield Generation:** YZone's intelligent selection of protocols ensures that users consistently earn the highest possible yield, maximising their returns on their crypto assets.
 * **Reduced Risks:** YZone carefully evaluates the security and reputation of each protocol it aggregates, minimising the risk of exposure to scams or unreliable platforms.
 * **Diversified Yield Portfolio:** YZone's aggregation of multiple protocols allows users to diversify their yield-generating strategies, reducing the overall risk of relying on a single protocol.
-* **Transparent Yield Tracking:** YZone provides users with a clear and transparent overview of their yield performance, allowing them to track their earnings and make informed investment decisions.
-
-Verified Contract Address List: \
-\
-OFF Token: \[[0xD55eDfc79c0d14084260D16f38BdA75e28AbFb6A](https://blastscan.io/address/0xD55eDfc79c0d14084260D16f38BdA75e28AbFb6A)]
-
-fyETH Token: \[[0x8Eb3D1686F96Fa5F4D129372DDf7D43Aaf8e7920](https://blastscan.io/address/0x8Eb3D1686F96Fa5F4D129372DDf7D43Aaf8e7920)]
-
-fyUSD Token: \[[0xdEA60E66E08543B371d50D0d39420c39580147cE](https://blastscan.io/address/0xdEA60E66E08543B371d50D0d39420c39580147cE)]
-
-LockedStakingPoolsProxy : \[[0xd95773E5B1eeDC7fF302a70AcD0eb370927397D2](https://blastscan.io/address/0xd95773E5B1eeDC7fF302a70AcD0eb370927397D2)]
-
-LockedStakingPoolsImplementation: \[[0x0832e17eb957389aDd1441b6725Ba80C6ff583c1](https://blastscan.io/address/0x0832e17eb957389aDd1441b6725Ba80C6ff583c1)]
-
-NonLockStakingPoolsProxy: \[[0xd9747a98624f0B64B4412632C420672E16432334](https://blastscan.io/address/0xd9747a98624f0B64B4412632C420672E16432334)]
-
-NonLockStakingPoolsImplementation: \[[0xFa9397f1fa04FF86A89efB5663fE1c8A5544ec6b](https://blastscan.io/address/0xFa9397f1fa04FF86A89efB5663fE1c8A5544ec6b)]
-
-RoleControlProxy: \[[0x779f9C230523003641009B870b36aea398F830f9](https://blastscan.io/address/0x779f9C230523003641009B870b36aea398F830f9)]
-
-RoleControlImplementation: \[[0xff008b6418B886f5aA3901c5e206AEB418988a3A](https://blastscan.io/address/0xff008b6418B886f5aA3901c5e206AEB418988a3A)]\
-PointOperator: \[[0xe8d35bfb4263b46f0bf308a654e4a8eb9f9cdaa5](https://blastscan.io/address/0xe8d35bfb4263b46f0bf308a654e4a8eb9f9cdaa5)]\
-\
-OFF Staking Contract: \[[0xC9B6c67af496E92F64b1C136B3FaD15e3b02cbb4](https://blastscan.io/address/0xc9b6c67af496e92f64b1c136b3fad15e3b02cbb4)]\
-\
+* **Transparent Yield Tracking:** YZone provides users with a clear and transparent overview of their yield performance, allowing them to track their earnings and make informed investment decisions.\
+  \
