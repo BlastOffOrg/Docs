@@ -11,3 +11,7 @@ description: Smart Contract Security Audit Reports
 {% endhint %}
 
 {% embed url="https://github.com/BlastOffOrg/Token-Staking-Contracts/blob/main/audits/BlastOff_Staking_Security_Audit.pdf" %}
+
+### IDO Pools Audit:
+
+{% embed url="https://github.com/BlastOffOrg/Ido-Pools-Foundry/blob/main/audit/Audit_v1_fc71c06.pdf" %}
