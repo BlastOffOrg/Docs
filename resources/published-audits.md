@@ -15,3 +15,5 @@ description: Smart Contract Security Audit Reports
 ### IDO Pools Audit:
 
 {% embed url="https://github.com/BlastOffOrg/Ido-Pools-Foundry/blob/main/audit/Audit_v1_fc71c06.pdf" %}
+
+Audits made by [ThreeS](https://threesigma.xyz/)[igma](https://threesigma.xyz/)

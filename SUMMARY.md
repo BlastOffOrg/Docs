@@ -28,6 +28,6 @@
 * [Verified Contracts](resources/verified-contracts.md)
 * [Published Audits](resources/published-audits.md)
 * [Partnerships](resources/partnerships/README.md)
-  * [Technical Integrations](resources/partnerships/technical-integrations.md)
   * [Incubation and YIDO Partners](resources/partnerships/incubation-and-yido-partners.md)
+  * [Security Audit](resources/partnerships/security-audit.md)
 * [Github](https://github.com/BlastOffOrg/)
