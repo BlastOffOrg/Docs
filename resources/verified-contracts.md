@@ -30,7 +30,8 @@ RoleControlImplementation: \[[0xff008b6418B886f5aA3901c5e206AEB418988a3A](https:
 
 ### $Team Operator Wallet
 
-PointOperator: \[[0xe8d35bfb4263b46f0bf308a654e4a8eb9f9cdaa5](https://blastscan.io/address/0xe8d35bfb4263b46f0bf308a654e4a8eb9f9cdaa5)]
+PointOperator: \[[0xe8d35bfb4263b46f0bf308a654e4a8eb9f9cdaa5](https://blastscan.io/address/0xe8d35bfb4263b46f0bf308a654e4a8eb9f9cdaa5)]\
+TeamWallet: \[[0x9cF3b1AaCc1599f4f352eb87fE33621DB207F70a](https://blastscan.io/address/0x9cF3b1AaCc1599f4f352eb87fE33621DB207F70a)]
 
 ### $Deprecated (fyYield)
 
